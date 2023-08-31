@@ -49,6 +49,11 @@ mod tests {
           在Rust中,每一个值都属于某一个数据类型（data type），这告诉Rust它被指定为何种数据,以便明确数据处理方式.
           
         具体来说,我们将会学习变量、基本类型、函数、注释和控制流。
+          \begin{itemize}
+            % autocorrect: false
+            \item 「湿兄用 U 盘 or 微信传给你的模板几乎一定是过时的」
+            % autocorrect: true
+          \end{itemize}
         \end{document}
         "###};
 
@@ -82,6 +87,11 @@ mod tests {
           在 Rust 中，每一个值都属于某一个数据类型（data type），这告诉 Rust 它被指定为何种数据，以便明确数据处理方式。
           
         具体来说，我们将会学习变量、基本类型、函数、注释和控制流。
+          \begin{itemize}
+            % autocorrect: false
+            \item 「湿兄用 U 盘 or 微信传给你的模板几乎一定是过时的」
+            % autocorrect: true
+          \end{itemize}
         \end{document}
         "###};
 
