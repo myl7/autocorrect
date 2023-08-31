@@ -1,3 +1,9 @@
+## How to run the MRE
+
+```sh
+cargo test code::latex
+```
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5518/194691346-13856309-266b-4bf6-b505-5a8b15d0c02e.png"
     alt="AutoCorrect Icon" width="128" height="128" />
